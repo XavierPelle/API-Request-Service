@@ -8,7 +8,7 @@ Un outil puissant et simple à utiliser pour effectuer des requêtes API avec pl
 
 ## 📦 **Prérequis**
 
-Avant de commencer, assurez-vous que vous avez installé Docker et Node.js sur votre machine.
+Avant de commencer, assurez-vous que vous avez installé Docker sur votre machine.
 
 ### 📍 **Prérequis principaux**
 
