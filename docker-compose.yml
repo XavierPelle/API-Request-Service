@@ -1,0 +1,14 @@
+services:
+  react:
+    build: .
+    ports:
+      - 3000:3000
+    volumes:
+      - ./api_logger:/app
+    networks:
+      - microservice
+
+networks:
+  microservice:
+    driver: bridge
+    external: true
