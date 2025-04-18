@@ -23,7 +23,7 @@ Avant de commencer, assurez-vous que vous avez installé Docker sur votre machin
 1. **Clonez le projet depuis GitHub :**
 
    ```bash
-   git clone https://github.com/votre-utilisateur/api-request-service.git
+   git clone https://github.com/XavierPelle/API-Request-Service
    cd api-request-service
    docker-compose up -d
     ```
